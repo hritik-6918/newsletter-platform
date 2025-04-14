@@ -1,9 +1,8 @@
+https://github.com/user-attachments/assets/01ee155a-39b5-402a-9ab8-e495a77d4e75
 
 # Developer Growth Newsletter Platform
 
 A modern, responsive newsletter platform that shares developer insights, tech resources, AI tools, and startup building framework from Hritik Kumar.
-
-![Developer Growth Newsletter](https://images.unsplash.com/photo-1432888498266-38ffec3eaf0a?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)
 
 ## Features
 
